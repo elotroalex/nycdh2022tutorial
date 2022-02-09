@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my new GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/elotroalex/nycdh2022tutorial/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm baby stumptown freegan ramps squid. DIY salvia etsy lo-fi flannel. Migas activated charcoal fanny pack thundercats. Farm-to-table authentic gentrify yr craft beer. Fanny pack shabby chic adaptogen shoreditch salvia prism pour-over. Irony blog literally freegan lomo, pabst four loko mumblecore flexitarian bitters venmo slow-carb yuccie seitan.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
 ### Markdown
 
